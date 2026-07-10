@@ -1,20 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Ajinkya%20Dahiwal&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CSE%20Student%20|%20Cloud%20Computing%20Specialization&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7dd3fc,100:0ea5e9&height=220&section=header&text=%20&fontSize=0&animation=twinkling" width="100%"/>
 
-<a href="https://github.com/ajinkyaa-24">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CSE+Student+%7C+Cloud+Computing;Building+with+Python+%2B+Django+%2B+FastAPI;Deploying+on+AWS+%26+Azure;Containerizing+with+Docker" alt="Typing SVG" />
-</a>
+<pre>
+ █████╗      ██╗██╗███╗   ██╗██╗  ██╗██╗   ██╗ █████╗ 
+██╔══██╗     ██║██║████╗  ██║██║ ██╔╝╚██╗ ██╔╝██╔══██╗
+███████║     ██║██║██╔██╗ ██║█████╔╝  ╚████╔╝ ███████║
+██╔══██║██   ██║██║██║╚██╗██║██╔═██╗   ╚██╔╝  ██╔══██║
+██║  ██║╚█████╔╝██║██║ ╚████║██║  ██╗   ██║   ██║  ██║
+╚═╝  ╚═╝ ╚════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+</pre>
 
-<br/><br/>
-
-![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Internships%20%2F%20Placements-7dd3fc?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=7DD3FC&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+CSE+student+%7C+Cloud+Computing+specialization;%24+cat+skills.txt;%3E+Python+%2B+Django+%2B+FastAPI+%2B+AWS+%2B+Azure+%2B+Docker;%24+status+--current;%3E+Compiling+dreams...+0+errors%2C+0+warnings;%24+echo+%24READY_FOR;%3E+Internships+%2F+Placements+2027" alt="Terminal Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ajinkyaa-24&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/ajinkyaa-24?label=Followers&style=flat-square&color=7dd3fc)
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Internships%20%2F%20Placements-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black)
+![Status](https://img.shields.io/badge/STATUS-Compiling%20Dreams...-0ea5e9?style=for-the-badge&logo=codeforces&logoColor=white)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ajinkyaa-24&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ajinkyaa-24?label=FOLLOWERS&style=for-the-badge&color=0ea5e9)
+
+</div>
+
+<!-- if you're reading the raw markdown instead of the rendered page... respect. you're my kind of nerd. -->
+
+---
+
+### 💬 Random Dev Wisdom (refreshes on every visit)
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" width="70%" />
 </div>
 
 ---
@@ -73,6 +91,42 @@ Data managing app for an organic waste converter plant.
 
 ---
 
+### 🐍 The Snake That Eats My Commits
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajinkyaa-24/ajinkyaa-24/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake game" src="https://raw.githubusercontent.com/ajinkyaa-24/ajinkyaa-24/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+> ⚙️ This one's a **live GitHub Action** — it literally plays a snake game on your contribution graph every 24 hours. Setup steps are below, it needs a one-time workflow file.
+
+---
+
+### 🧊 Contributions in 3D
+
+<div align="center">
+<img src="https://profile-3d-contrib.vercel.app/profile-3d-contrib/?username=ajinkyaa-24" width="100%"/>
+</div>
+
+---
+
+### 🏅 Achievements Unlocked
+
+<div align="center">
+
+![Badge](https://img.shields.io/badge/🔥-Consistency%20Streak-7dd3fc?style=for-the-badge)
+![Badge](https://img.shields.io/badge/📄-IEEE%20Published%20Author-0ea5e9?style=for-the-badge)
+![Badge](https://img.shields.io/badge/☁️-AWS%20%2B%20Azure%20Builder-7dd3fc?style=for-the-badge)
+![Badge](https://img.shields.io/badge/🎯-Placement%20Ready-0ea5e9?style=for-the-badge)
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -106,5 +160,11 @@ Data managing app for an organic waste converter plant.
 [![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7dd3fc)](mailto:ajinkyaa.dahiwal24@gmail.com)
 
 </div>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=%24+sudo+shutdown+--profile;%3E+Saving+progress...+done;%3E+See+you+in+the+next+commit+%F0%9F%91%8B" alt="Terminal Shutdown" />
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
